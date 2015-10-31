@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
+<div align="center">
+  <section class="home-header">
+    <img width="200px" height="200px" src="img/logo.svg"/>
+  <h1>Dasom</h1>
+  <h3>A multilingual input method framework<h3>
+    <button type="button" class="btn btn-default btn-lg">Learn More</button>
+    <button type="button" class="btn btn-default btn-lg">Get Dasom</button>
+  </section>
+  <div class="wrap-content">
+  <h2>News</h2>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </div>
 </div>

@@ -1,0 +1,11 @@
+body {
+}
+.wrap-content{
+  margin: 50px;
+}
+.home-header{
+  padding-top: 120px;
+  padding-bottom: 80px;
+  background-color: black;
+  color: white;
+}
