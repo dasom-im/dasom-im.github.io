@@ -1,6 +1,7 @@
 ---
 layout: default
 title : News
+permalink: /news/
 ---
 <div align="center">
   <div class="home-content">
@@ -16,5 +17,6 @@ title : News
       </li>
     {% endfor %}
   </ul>
+  <a href="{{ "/archive/" | prepend: site.baseurl }}"><button type="button" class="btn btn-default btn-lg">Go To News Archive</button></a>
   </div>
 </div>

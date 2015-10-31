@@ -7,7 +7,8 @@ layout: default
 </div>
 {% if page.author %} {{ page.author }} {% endif %}
 {{ content }}
-</div>
+
+<hr>
 <!-- Pagination links -->
 {% if page.previous.url %}
 <h3><a href="{{page.previous.url}}" style="color:white;">{{ page.previous.title }}</a><h3>
@@ -22,3 +23,4 @@ layout: default
 <p>{{ page.previous.date | date: "%Y.%m.%d" }}</p>
 {% else %}
 {% endif %}
+</div>
