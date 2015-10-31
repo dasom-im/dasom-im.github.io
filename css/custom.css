@@ -6,6 +6,8 @@ body {
 }
 .home-content{
   margin: 50px;
+  padding-top: 20px;
+  max-width: 1000px;
 }
 .home-header{
   padding-top: 120px;
