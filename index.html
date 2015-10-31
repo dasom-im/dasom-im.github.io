@@ -12,12 +12,12 @@ layout: default
   <div class="wrap-content">
   <h2>News</h2>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%Y.%m.%d" }}</span>
       </li>
     {% endfor %}
   </ul>

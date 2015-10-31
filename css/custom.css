@@ -2,6 +2,7 @@ body {
 }
 .wrap-content{
   margin: 50px;
+  padding-top: 50px;
 }
 .home-header{
   padding-top: 120px;
