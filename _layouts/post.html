@@ -11,7 +11,7 @@ layout: default
 <hr>
 <!-- Pagination links -->
 {% if page.previous.url %}
-<h3><a href="{{page.previous.url}}" style="color:white;">{{ page.previous.title }}</a><h3>
+<h3><a href="{{page.previous.url}}" >{{ page.previous.title }}</a></h3>
 <p>{{ page.previous.date | date: "%Y.%m.%d" }}</p>
 
 
@@ -19,8 +19,8 @@ layout: default
 {% endif %}
 {% if page.next.url %}
 
-<h3><a href="{{page.next.url}}" style="color:white;">{{ page.next.title }}</a><h3>
-<p>{{ page.previous.date | date: "%Y.%m.%d" }}</p>
+<h3><a href="{{page.next.url}}" >{{ page.next.title }}</a></h3>
+<p>{{ page.next.date | date: "%Y.%m.%d" }}</p>
 {% else %}
 {% endif %}
 </div>
