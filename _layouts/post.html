@@ -3,9 +3,9 @@ layout: default
 ---
 <div class="wrap-content">
 <div class="page-header">
-  <h1>{{ page.title }}<br><small>{{ page.date | date: "%b %-d, %Y" }}</small></h1>
+  <h1>{{ page.title }}<br><small>{{ page.date | date: "%Y.%m.%d" }}</small></h1>
+  {% if page.author %} {{ page.author }} {% endif %}
 </div>
-{% if page.author %} {{ page.author }} {% endif %}
 {{ content }}
 
 <hr>
