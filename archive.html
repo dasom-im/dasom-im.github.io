@@ -10,7 +10,7 @@ permalink: /archive/
 
 
     <hr>
-    <ul>
+
     {% for post in site.posts %}
 
       {% unless post.next %}
@@ -23,8 +23,8 @@ permalink: /archive/
         {% endif %}
       {% endunless %}
 
-      <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <p>{{ post.date | date: "%Y.%m.%d" }} | <a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
-  </ul>
+
 </div>
 </div>
