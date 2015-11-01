@@ -21,7 +21,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%Y.%m.%d" }}</span>
+        <span class="post-meta">{{ post.date | date: "%Y.%m.%d" }}{% if page.author %} | {{ page.author }} {% endif %}</span>
       </li>
     {% endfor %}
   </ul>

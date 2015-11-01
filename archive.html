@@ -23,7 +23,7 @@ permalink: /archive/
         {% endif %}
       {% endunless %}
 
-      <p>{{ post.date | date: "%Y.%m.%d" }} | <a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p>{{ post.date | date: "%Y.%m.%d" }} | <a href="{{ post.url }}">{{ post.title }}</a>{% if page.author %} | {{ page.author }} {% endif %}</p>
     {% endfor %}
 
 </div>
