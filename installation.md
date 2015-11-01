@@ -10,6 +10,15 @@ Build and Install ```dasom-git``` package from AUR
 yaourt -S dasom-git
 {% endhighlight %}
 
+Then, add these lines to ```~/.xprofile```
+~~~
+export GTK_IM_MODULE=dasom
+export QT_IM_MODULE=dasom
+export XMODIFIERS="@im=dasom"
+dasom-daemon
+dasom-indicator
+~~~
+
 ## Build and Install from source
 {% highlight bash %}
 git clone https://github.com/dasom-im/dasom.git
@@ -20,6 +29,19 @@ sudo make install
 sudo ldconfig
 sudo make update-gtk-im-cache
 sudo make update-gtk-icon-cache
+{% endhighlight %}
+
+## Are you using GNOME Desktop?
+You may need to run these commands to use dasom.
+{% highlight bash %}
+gsettings set org.gnome.settings-daemon.plugins.keyboard active false
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gtk/IMModule':<'dasom'>}"
+{% endhighlight %}
+
+If needed, you can use Dasom Agent extension for GNOME.
+{% highlight bash %}
+# Enable Dasom Agent extension for GNOME
+gnome-shell-extension-tool -e dasom-agent@gnome-shell-extensions.cogno.org
 {% endhighlight %}
 
 ## Debugging Dasom
