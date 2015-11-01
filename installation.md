@@ -47,7 +47,7 @@ gnome-shell-extension-tool -e dasom-agent@gnome-shell-extensions.cogno.org
 ## Debugging Dasom
 {% highlight bash %}
 dasom-daemon --debug
-ail -f /var/log/daemon.log
+tail -f /var/log/daemon.log
 
 export GTK_IM_MODULE="dasom"
 export QT4_IM_MODULE="dasom"
