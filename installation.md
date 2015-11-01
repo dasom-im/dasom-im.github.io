@@ -11,13 +11,13 @@ yaourt -S dasom-git
 {% endhighlight %}
 
 Then, add these lines to ```~/.xprofile```
-~~~
+{% highlight bash %}
 export GTK_IM_MODULE=dasom
 export QT_IM_MODULE=dasom
 export XMODIFIERS="@im=dasom"
 dasom-daemon
 dasom-indicator
-~~~
+{% endhighlight %}
 
 ## Build and Install from source
 {% highlight bash %}
