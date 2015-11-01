@@ -6,13 +6,8 @@ permalink: /archive/
 <div align="center">
   <div class="home-content">
     <h2>Archive</h2>
-
-
-
     <hr>
-
     {% for post in site.posts %}
-
       {% unless post.next %}
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% else %}
@@ -22,9 +17,7 @@ permalink: /archive/
           <h3>{{ post.date | date: '%Y' }}</h3>
         {% endif %}
       {% endunless %}
-
       <p>{{ post.date | date: "%Y.%m.%d" }} | <a href="{{ post.url }}">{{ post.title }}</a>{% if page.author %} | {{ page.author }} {% endif %}</p>
     {% endfor %}
-
 </div>
 </div>
