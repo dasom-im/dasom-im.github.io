@@ -31,20 +31,20 @@ sudo make update-gtk-im-cache
 sudo make update-gtk-icon-cache
 {% endhighlight %}
 
-## Are you using GNOME Desktop?
-You may need to run these commands to use dasom.
+## Are you using GNOME Desktop on Arch Linux?
+You may need to run the following commands to use dasom.
 {% highlight bash %}
 gsettings set org.gnome.settings-daemon.plugins.keyboard active false
 gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gtk/IMModule':<'dasom'>}"
 {% endhighlight %}
 
-If needed, you can use Dasom Agent extension for GNOME.
+If needed, you can use dasom-agent extension for GNOME shell.
 {% highlight bash %}
-# Enable Dasom Agent extension for GNOME
+# Enable dasom-agent extension for GNOME shell
 gnome-shell-extension-tool -e dasom-agent@gnome-shell-extensions.cogno.org
 {% endhighlight %}
 
-## Debugging Dasom
+## Debugging
 {% highlight bash %}
 dasom-daemon --debug
 tail -f /var/log/daemon.log
