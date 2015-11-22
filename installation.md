@@ -10,6 +10,11 @@ Build and Install ```dasom-git``` package from AUR
 yaourt -S dasom-git
 {% endhighlight %}
 
+for Korean Input, Build and Install ```dasom-jeongeum-git``` package from AUR Additionally.
+{% highlight bash %}
+yaourt -S dasom-jeongeum-git
+{% endhighlight %}
+
 Then, add these lines to ```~/.xprofile```
 {% highlight bash %}
 export GTK_IM_MODULE=dasom
@@ -18,6 +23,20 @@ export XMODIFIERS="@im=dasom"
 dasom-daemon
 dasom-indicator
 {% endhighlight %}
+
+## Ubuntu & Debian
+Get Latest Dasom Package from [Here](https://github.com/dasom-im/dasom/releases). 
+For Korean Input, Get Latest Dasom Jeongeum Package from [Here](https://github.com/dasom-im/dasom-jeongeum/releases). 
+Than use dpkg for installation.
+{% highlight bash %}
+sudo dpkg -i <Path To Package> # Example : sudo dpkg -i dasom_1.1-ubuntu-15.10_amd64.deb
+{% endhighlight %}
+
+Run ```im-config``` 
+{% highlight bash %}
+im-config
+{% endhighlight %}
+then, select ```dasom``` from the list
 
 ## Build and Install from source
 {% highlight bash %}
