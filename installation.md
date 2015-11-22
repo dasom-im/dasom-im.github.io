@@ -25,14 +25,14 @@ dasom-indicator
 {% endhighlight %}
 
 ## Ubuntu & Debian
-Get Latest Dasom Package from [Here](https://github.com/dasom-im/dasom/releases). 
-For Korean Input, Get Latest Dasom Jeongeum Package from [Here](https://github.com/dasom-im/dasom-jeongeum/releases). 
-Than use dpkg for installation.
+Get Latest Dasom Package from [Here](https://github.com/dasom-im/dasom/releases).<br>
+For Korean Input, Get Latest Dasom Jeongeum Package from [Here](https://github.com/dasom-im/dasom-jeongeum/releases). <br>
+Then, use dpkg for installation.
 {% highlight bash %}
 sudo dpkg -i <Path To Package> # Example : sudo dpkg -i dasom_1.1-ubuntu-15.10_amd64.deb
 {% endhighlight %}
 
-Run ```im-config``` 
+Run ```im-config``` to set ```dasom``` as a default Input Method
 {% highlight bash %}
 im-config
 {% endhighlight %}
