@@ -11,7 +11,7 @@ You can donate some money to our team members directly.
 Money you donated will be used for making and developing Dasom IM better
 
 ### Hodong Kim 
- - [Donate to Hodong Kim via Paypal](https://www.paypal.com/mr/cgi-bin/webscr?cmd=_flow&SESSION=N4_SEi9fYRCCICSFbmSNCmbXgxXr09FjjX1IVLWpkK22fPi6XwQhD2MDUHO&dispatch=5885d80a13c0db1f8e263663d3faee8d64ad11bbf4d2a5a1a0d303a50933f9b2)
+ - [Donate to Hodong Kim via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hodong%40cogno%2eorg&lc=MR&item_name=Donate%20to%20Hodong%20Kim%2c%20A%20Member%20of%20the%20Dasom%20IM%20Team&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
  - [Donate to Hodong Kim via Flattr](https://flattr.com/profile/hodong)
 
 ### Youngbin Han
