@@ -7,7 +7,7 @@ permalink: /getinvolved/
 Help us make Dasom IM much better. There are many ways you can help us.
 
 ## Donate to our team members.
-You can donate some money to our team members directly.
+You can donate some money to our team members directly.<br>
 Money you donated will be used for making and developing Dasom IM better
 
 ### Hodong Kim 
@@ -26,3 +26,14 @@ If you faced with bugs from Dasom, Report that.
  - [Report bugs for dasom-gtk](https://github.com/dasom-im/dasom-gtk/issues/new)
  - [Report bugs for dasom-qt](https://github.com/dasom-im/dasom-qt/issues/new)
  - [Report bugs for dasom-jeongeum](https://github.com/dasom-im/dasom-jeongeum/issues/new)
+
+## Code
+
+Contribue to this project by opening pull request with your patch.
+
+ - Fork one of the Dasom IM repositories you want to contribue.
+ - Clone reppository you forked.
+ - Edit or add some codes.
+ - Commit than push it to repository you forked.
+ - Open Pull Request on Original Repository.
+ - Wait for your Pull Request to be accepted.
