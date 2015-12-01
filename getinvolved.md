@@ -23,6 +23,6 @@ Money you donated will be used for making and developing Dasom IM better
 If you faced with bugs from Dasom, Report that.
 
  - [Report bugs for dasom](https://github.com/dasom-im/dasom/issues/new)
- - [Repirt bugs for dasom-gtk](https://github.com/dasom-im/dasom-gtk/issues/new)
+ - [Report bugs for dasom-gtk](https://github.com/dasom-im/dasom-gtk/issues/new)
  - [Report bugs for dasom-qt](https://github.com/dasom-im/dasom-qt/issues/new)
  - [Report bugs for dasom-jeongeum](https://github.com/dasom-im/dasom-jeongeum/issues/new)
