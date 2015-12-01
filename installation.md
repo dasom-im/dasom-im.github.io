@@ -26,6 +26,7 @@ dasom-indicator
 
 ## Ubuntu & Debian
 Get Latest Dasom Package from [Here](https://github.com/dasom-im/dasom/releases).<br>
+Get Latest GTK IM Modules Package from [Here](https://github.com/dasom-im/dasom-gtk/releases) and Latest QT IM Modules package from [Here](https://github.com/dasom-im/dasom-qt/releases).<br>
 For Korean Input, Get Latest Dasom Jeongeum Package from [Here](https://github.com/dasom-im/dasom-jeongeum/releases). <br>
 Then, use dpkg for installation.
 {% highlight bash %}
