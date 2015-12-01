@@ -10,6 +10,11 @@ Build and Install ```dasom-git``` package from AUR
 yaourt -S dasom-git
 {% endhighlight %}
 
+Build and Install ```dasom-gtk-git``` and ```dasom-qt-git``` (IM Modules for dasom) from AUR
+{% highlight bash %}
+yaourt -S dasom-gtk-git dasom qt-git
+{% endhighlight %}
+
 for Korean Input, Build and Install ```dasom-jeongeum-git``` package from AUR Additionally.
 {% highlight bash %}
 yaourt -S dasom-jeongeum-git
