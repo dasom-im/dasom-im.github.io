@@ -12,4 +12,4 @@ From now on, You can easily install dasom using our ppa.<br>
 Run this command to add our ppa to your system's Software Source.
 {% highlight bash %}
 sudo add-apt-repository ppa:dasom/ppa
-{% endhighlights %}
+{% endhighlight %}
