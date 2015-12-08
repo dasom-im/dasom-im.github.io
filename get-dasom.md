@@ -13,7 +13,7 @@ Packages for Arch Linux are available in AUR. get them from AUR.
 - [dasom-jeongeum-git](https://aur.archlinux.org/packages/dasom-jeongeum-git/)
 
 ## Ubuntu
-Packages for Ubuntu are available our [PPA](https://launchpad.net/~dasom/+archive/ubuntu/ppa)
+Packages for Ubuntu are available via [PPA](https://launchpad.net/~dasom/+archive/ubuntu/ppa)
 
 
 ## Build and Install from source
