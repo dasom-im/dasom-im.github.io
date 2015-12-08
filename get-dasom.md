@@ -14,7 +14,3 @@ Packages for Arch Linux are available in AUR. get them from AUR.
 
 ## Ubuntu
 Packages for Ubuntu are available via [PPA](https://launchpad.net/~dasom/+archive/ubuntu/ppa)
-
-
-## Build and Install from source
-- [Read how to build and install from source](https://github.com/dasom-im/dasom/wiki/Build-and-Install-from-Source)
