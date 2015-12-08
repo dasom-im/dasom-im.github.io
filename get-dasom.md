@@ -12,7 +12,7 @@ Packages for Arch Linux are available in AUR. get them from AUR.
 - [dasom-qt-git](https://aur.archlinux.org/packages/dasom-qt-git/)
 - [dasom-jeongeum-git](https://aur.archlinux.org/packages/dasom-jeongeum-git/)
 
-## Ubuntu & Debian
+## Ubuntu
 Packages for Ubuntu are available our [PPA](https://launchpad.net/~dasom/+archive/ubuntu/ppa)
 
 
