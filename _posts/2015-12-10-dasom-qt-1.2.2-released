@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Dasom Qt 1.2.2 Released"
+date:   2015-12-10
+tags: new-release dasom-qt
+---
+
+Dasom Qt 1.2.2 just has been released.
+
+### Changes in Dasom Qt 1.2.2
+- Fixed logic about focus
+
+Note : Since we don't use Qt, release cycle of Dasom Qt could be shorter than usual.
