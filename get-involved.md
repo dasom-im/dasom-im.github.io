@@ -10,18 +10,7 @@ Help us make Dasom IM much better. There are many ways you can help us.
 You can donate some money to our team members directly.<br>
 Money you donated will be used for making and developing Dasom IM better
 
-#### Hodong Kim 
- - hodong@cogno.org
- - [Donate to Hodong Kim via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hodong%40cogno%2eorg&lc=MR&item_name=Donate%20to%20Hodong%20Kim%2c%20A%20Member%20of%20the%20Dasom%20IM%20Team&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
- - [Donate to Hodong Kim via Flattr](https://flattr.com/profile/hodong)
-
-#### Youngbin Han
- - sukso96100@gmail.com
- - [Donate to Youngbin Han via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sukso96100%40gmail%2ecom&lc=MR&item_name=Donate%20to%20Youngbin%20Han%2c%20A%20Member%20of%20the%20Dasom%20IM%20Team&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
- - [Donate to Youngbin Han via Flattr](https://flattr.com/profile/sukso96100)
-
-#### Minwook Shin
- - smw0106@naver.com
+[Click here to learn more about making donation](/donate/)
 
 ## Report Bugs
 
