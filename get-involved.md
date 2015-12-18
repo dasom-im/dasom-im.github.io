@@ -6,12 +6,6 @@ permalink: /get-involved/
 
 Help us make Dasom IM much better. There are many ways you can help us.
 
-## Donate to our team members.
-You can donate some money to our team members directly.<br>
-Money you donated will be used for making and developing Dasom IM better
-
-[Click here to learn more about making donation](/donate/)
-
 ## Report Bugs
 
 If you faced with bugs from Dasom, Report that.
@@ -31,3 +25,9 @@ Contribute to this project by opening pull request with your patch.
  - Commit then push it to repository you forked.
  - Open Pull Request on Original Repository.
  - Wait for your Pull Request to be accepted.
+
+## Donate to our team members.
+You can donate some money to our team members directly.<br>
+Money you donated will be used for making and developing Dasom IM better
+
+[Click here to learn more about making donation](/donate/)
