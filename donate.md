@@ -3,10 +3,10 @@ layout: page
 title: Donate
 permalink: /donate/
 ---
+Development of this project is done by our team members and contributors in their spare time.  
+With your single or continual donation, We can use more time on this project.
 
 ## Donate to our team members.
-Development of this project is done by our team members and contributors in their spare time.  
-With your single or continual donation, We can use more time on this project.  
 You can donate some money to our team members directly.  
 Money you donated will be used for making and developing Dasom IM better.
 
