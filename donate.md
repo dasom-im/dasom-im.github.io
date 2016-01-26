@@ -23,6 +23,7 @@ Money you donated will be used for making and developing Dasom IM better.
 
 Thanks to all donors!
 
+- 2016.01.25 - USD 10.0
 - 2015.12.17 - KRW 10,000
 - 2015.12.10 - KRW 40,000
-- 2015.12.02 - USD 5
+- 2015.12.02 - USD 5.0
