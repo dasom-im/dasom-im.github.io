@@ -17,7 +17,7 @@ Money you donated will be used for making and developing Dasom IM better.
  - [Donate to Youngbin Han via Flattr](https://flattr.com/profile/sukso96100)
 
 #### Minwook Shin
- - smw0106@naver.com
+ - minwook0106@gmail.com
  
 ## Donation history
 
