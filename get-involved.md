@@ -31,3 +31,10 @@ You can donate some money to our team members directly.<br>
 Money you donated will be used for making and developing Dasom IM better
 
 [Click here to learn more about making donation](/donate/)
+
+## Dasom Team Members
+### Current Members
+- Youngbin Han(sukso96100@gmail.com)
+### Previous Members
+- Hodong Kim(cogniti@gmail.com) / ~2016.01.01
+- Minwook Shin(minwook0106@gmail.com) / ~2016.05.15
